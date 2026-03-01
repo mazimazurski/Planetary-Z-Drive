@@ -1,5 +1,5 @@
 # Planetary-Z-Drive for Voron printers
-![Image](/images/main.png)
+![Image](/images/main.png)<br>
 Mtching planetary gears:<br>
 TNR42 https://pl.aliexpress.com/item/1005009693903224.html<br>
 https://www.omc-stepperonline.com/nema-17-mg-series-planetary-gearbox<br>
