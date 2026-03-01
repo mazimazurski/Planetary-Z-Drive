@@ -1,5 +1,4 @@
-# Planetary-Z-Drive
-Planetary Z-Drive
+# Planetary-Z-Drive for Voron printers
 
 Mtching planetary gears:<br>
 TNR42 https://pl.aliexpress.com/item/1005009693903224.html<br>
